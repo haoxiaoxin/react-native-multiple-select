@@ -101,6 +101,8 @@ class MultiSelectExample extends Component {
           searchInputStyle={{ color: '#CCC' }}
           submitButtonColor="#CCC"
           submitButtonText="Submit"
+          noItemsDisplay="暂无数据"
+          addNewItemDisplay="为新选项"
         />
         <View>
           {this.multiSelect.getSelectedItemsExt(selectedItems)}
