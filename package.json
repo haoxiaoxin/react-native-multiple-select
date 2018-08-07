@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toystars/react-native-multiple-select.git"
+    "url": "git+https://github.com/haoxiaoxin/react-native-multiple-select.git"
   },
   "keywords": ["reactnative", "multiselect", "multi-select", "react-native"],
   "author": "Mustapha Babatunde Oluwaleke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toystars/react-native-multiple-select/issues"
+    "url": "https://github.com/haoxiaoxin/react-native-multiple-select/issues"
   },
-  "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
+  "homepage": "https://github.com/haoxiaoxin/react-native-multiple-select#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^7.1.1",
